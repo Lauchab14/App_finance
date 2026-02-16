@@ -1,3 +1,8 @@
 streamlit
 pandas
 plotly
+numpy
+numpy-financial
+requests
+beautifulsoup4
+lxml
