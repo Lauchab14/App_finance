@@ -729,7 +729,7 @@ if prix_achat > 0 and revenus_bruts_annuels > 0:
                 f"{calculer_paiement_hypothecaire(an1['Hypothèque'], taux_interet, amortissement):,.2f} $",
                 f"{an1['Revenus bruts']:,.2f} $",
                 f"{an1['Revenus nets']:,.2f} $",
-                f"{an1['Dépenses d\\'exploitation']:,.2f} $",
+                f"{an1['Dépenses d' + 'exploitation']:,.2f} $",
                 f"{an1['NOI']:,.2f} $",
                 f"{an1['Service de dette']:,.2f} $",
                 f"{an1['Cashflow']:,.2f} $",
